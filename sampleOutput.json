@@ -1,0 +1,59 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": {
+        "id": "bbc-sport",
+        "name": "BBC Sport"
+      },
+      "author": null,
+      "title": "The Ashes 2025-26: 'England's Ben Stokes is a lion leading lambs - he needs team-mates to step up'",
+      "description": "At times during England's Ashes defeat in Australia it has looked like Ben Stokes is a lion leading lambs and his team-mates must step up, writes chief cricket reporter Stephan Shemilt.",
+      "url": "http://www.bbc.co.uk/sport/cricket/articles/crkr4nl7463o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6c0e/live/2657a1d0-e88f-11f0-a8dc-93c15fe68710.jpg",
+      "publishedAt": "2026-01-03T12:22:18.1039872Z",
+      "content": "But Stokes will lead an XI that is almost unrecognisable from the last Test of the previous Ashes series in 2023. England will have five survivors. If Pat Cummins and Josh Hazlewood had been fit, Aus… [+1384 chars]"
+    },
+    {
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "author": "Roderick Easdale",
+      "title": "The Ashes 2025/26 Free Streams: TV Channels, Full Schedule & New Year 5th Test Preview for Australia vs England",
+      "description": "All the ways to watch the 2025/26 Ashes from anywhere in the world as Australia and England do battle in cricket’s most famous Test series.",
+      "url": "https://www.techradar.com/how-to-watch/cricket/the-ashes-2025-26-australia-vs-england-free-live-streams",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/y3qfC4o2nTdzufvXymNcbQ-2560-80.jpg",
+      "publishedAt": "2025-11-20T15:08:33Z",
+      "content": "England and Australia are playing for pride in Sydney in the 5th Ashes Test, and the players for their reputations and, possibly, careers.\r\nAfter 14 years 354 days, England brought to an end their lo… [+6296 chars]"
+    },
+    {
+      "source": {
+        "id": "espn-cric-info",
+        "name": "ESPN Cric Info"
+      },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": {
+        "id": "espn-cric-info",
+        "name": "ESPN Cric Info"
+      },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+  ]
+}
+       
