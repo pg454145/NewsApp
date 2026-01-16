@@ -1,3 +1,7 @@
+body{
+  padding-top: 60px;
+}
+
 .App {
   text-align: center;
 }
@@ -34,5 +38,11 @@
   }
   to {
     transform: rotate(360deg);
+  }
+}
+@media (max-width: 991px) {
+  .navbar-collapse {
+    max-height: 70vh;
+    overflow-y: auto;
   }
 }
