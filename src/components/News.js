@@ -52,7 +52,7 @@ const News = (props) => {
             setError("Failed to fetch news. Please check your connection or API key.");
             setLoading(false);
         }
-    }, [props.country, props.category, props.pageSize, props.setProgress, props.apiKey]);
+    }, [props]);
 
     useEffect(() => {
         document.title = `${capitalizeFirstLetter(props.category)} - NewsMonkey`;
