@@ -1,0 +1,20 @@
+{
+	"geolocation": {
+		"data": {
+			"city": "Lucknow",
+			"country": {
+				"code": "IN",
+				"name": "India"
+			},
+			"subdivision": {
+				"code": "UP",
+				"name": "Uttar Pradesh"
+			},
+			"timezone": "Asia/Kolkata",
+			"latitude": 26.8373,
+			"longitude": 80.9165,
+			"postalCode": "226003"
+		},
+		"timestamp": 1768540898385
+	}
+}
